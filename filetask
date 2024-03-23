@@ -1,0 +1,11 @@
+Following are few commands in git:
+
+Which git: to check git
+git config --global user.name "Rohan" : to configaration
+git config --global user.email "Rohan@gmail.com" : to configaration
+git status - to check status
+git init
+git add . or git add --all : to move from work space to staging area
+git commit -m "hello" : move to local repo
+git log : to display history of repo/to check commit ID
+git show 'commit id' : to check inside the commit id
